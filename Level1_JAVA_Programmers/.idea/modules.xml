@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Level1_JAVA_Programmers.iml" filepath="$PROJECT_DIR$/.idea/Level1_JAVA_Programmers.iml" />
       <module fileurl="file://$PROJECT_DIR$/x만큼 간격이 있는 n개의 숫자/x만큼 간격이 있는 n개의 숫자.iml" filepath="$PROJECT_DIR$/x만큼 간격이 있는 n개의 숫자/x만큼 간격이 있는 n개의 숫자.iml" />
+      <module fileurl="file://$PROJECT_DIR$/제일 작은 수 제거하기/제일 작은 수 제거하기.iml" filepath="$PROJECT_DIR$/제일 작은 수 제거하기/제일 작은 수 제거하기.iml" />
       <module fileurl="file://$PROJECT_DIR$/직사각형 별찍기/직사각형 별찍기.iml" filepath="$PROJECT_DIR$/직사각형 별찍기/직사각형 별찍기.iml" />
       <module fileurl="file://$PROJECT_DIR$/짝수와 홀수/짝수와 홀수.iml" filepath="$PROJECT_DIR$/짝수와 홀수/짝수와 홀수.iml" />
       <module fileurl="file://$PROJECT_DIR$/최대공약수와 최소공배수/최대공약수와 최소공배수.iml" filepath="$PROJECT_DIR$/최대공약수와 최소공배수/최대공약수와 최소공배수.iml" />
