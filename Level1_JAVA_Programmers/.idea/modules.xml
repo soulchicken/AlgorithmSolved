@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Level1_JAVA_Programmers.iml" filepath="$PROJECT_DIR$/.idea/Level1_JAVA_Programmers.iml" />
       <module fileurl="file://$PROJECT_DIR$/x만큼 간격이 있는 n개의 숫자/x만큼 간격이 있는 n개의 숫자.iml" filepath="$PROJECT_DIR$/x만큼 간격이 있는 n개의 숫자/x만큼 간격이 있는 n개의 숫자.iml" />
+      <module fileurl="file://$PROJECT_DIR$/문자열 내림차순으로 배치하기/문자열 내림차순으로 배치하기.iml" filepath="$PROJECT_DIR$/문자열 내림차순으로 배치하기/문자열 내림차순으로 배치하기.iml" />
       <module fileurl="file://$PROJECT_DIR$/문자열 다루기 기본/문자열 다루기 기본.iml" filepath="$PROJECT_DIR$/문자열 다루기 기본/문자열 다루기 기본.iml" />
       <module fileurl="file://$PROJECT_DIR$/문자열을 정수로 바꾸기/문자열을 정수로 바꾸기.iml" filepath="$PROJECT_DIR$/문자열을 정수로 바꾸기/문자열을 정수로 바꾸기.iml" />
       <module fileurl="file://$PROJECT_DIR$/서울에서 김서방 찾기/서울에서 김서방 찾기.iml" filepath="$PROJECT_DIR$/서울에서 김서방 찾기/서울에서 김서방 찾기.iml" />
