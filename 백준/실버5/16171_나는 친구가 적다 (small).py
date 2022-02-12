@@ -1,0 +1,1 @@
+print(0 if -1 == input().translate(str.maketrans("1234567890",'          ')).replace(' ','').find(input()) else 1)
