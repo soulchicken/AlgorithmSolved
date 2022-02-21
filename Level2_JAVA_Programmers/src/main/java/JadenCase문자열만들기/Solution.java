@@ -2,20 +2,17 @@ package JadenCase문자열만들기;
 
 class Solution {
     public String solution(String s) {
-        String[] words = s.split(" ");
         String answer = "";
-        for (int i = 0; i < words.length; i++) {
-            if (i != 0) {
-                answer += " ";
+        boolean flag = false;
+        for (int i = 0; i < s.length(); i++) {
+            if (i == 0 || flag) {
+                answer += String.valueOf(s.charAt(i)).toUpperCase();
+             } else {
+                answer += String.valueOf(s.charAt(i)).toLowerCase();
             }
-            answer += makeJaden(words[i]);
+
+            flag = s.charAt(i) == ' ';
         }
         return answer;
-    }
-
-    public String makeJaden(String str) {
-        String first = str.substring(0,1).toUpperCase();
-        first += str.substring(1).toLowerCase();
-        return first;
     }
 }
