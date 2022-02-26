@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/신고 결과 받기" />
     <file type="web" url="file://$PROJECT_DIR$/신규 아이디 추천" />
     <file type="web" url="file://$PROJECT_DIR$/체육복" />
     <file type="web" url="file://$PROJECT_DIR$/크레인 인형 뽑기" />
