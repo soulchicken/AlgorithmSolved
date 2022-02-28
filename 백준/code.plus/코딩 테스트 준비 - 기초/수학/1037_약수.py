@@ -1,0 +1,5 @@
+n = int(input())
+li = list(map(int,input().split()))
+li.sort()
+if n == 1: print(n*2)
+else: print(li[0]*li[-1])
