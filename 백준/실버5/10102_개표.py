@@ -1,0 +1,5 @@
+n = int(input())
+s = input().count('A')
+if s > n-s: print('A')
+elif s == n-s : print('Tie')
+else: print('B')
